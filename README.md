@@ -13,4 +13,4 @@ Python | SQL | Pandas | Scikit-learn | Power BI | Git | Azure | Databricks
 - 🤖 [Modelo de Classificação com Random Forest](link)
 
 ## 📫 Contato
-[LinkedIn](https://www.linkedin.com/in/bruna-melo-9a0a49144/)) | [Email](melobrunaf@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/bruna-melo-9a0a49144/) | [Email](melobrunaf@gmail.com)
