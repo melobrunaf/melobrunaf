@@ -1,16 +1,16 @@
-## Hi there 👋
+# 👩‍💻 Bruna Fernandes | Cientista de Dados
 
-<!--
-**melobrunaf/melobrunaf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Bacharelado em Matemática
+📊 Ciência de Dados • Estatística Aplicada • Machine Learning  
+🌎 Apaixonada por dados e impacto social
 
-Here are some ideas to get you started:
+## 🛠️ Habilidades
+Python | SQL | Pandas | Scikit-learn | Power BI | Git | Azure | Databricks
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📁 Repositórios em Destaque
+- 🔍 [Análise de Vendas com Python](link)
+- 📊 [Dashboard de Consumo Sustentável no Power BI](link)
+- 🤖 [Modelo de Classificação com Random Forest](link)
+
+## 📫 Contato
+[LinkedIn]([link](https://www.linkedin.com/in/bruna-melo-9a0a49144/)) | [Email](melobrunaf@gmail.com)
